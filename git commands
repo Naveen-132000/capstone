@@ -1,0 +1,4 @@
+git init
+git origin 
+git add .
+git commit
